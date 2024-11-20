@@ -61,4 +61,4 @@ Todas as tarefas são salvas no `localStorage`, permitindo que os dados permane�
 
 ## 🧑‍💻 Contato
 
-Dúvidas ou sugestões? Entre em contato pelo email: **seuemail@exemplo.com**.
+Dúvidas ou sugestões? Entre em contato pelo email: **gianmalfate@gmail.com**.
